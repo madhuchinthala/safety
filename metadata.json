@@ -1,0 +1,9 @@
+
+{
+  "name": "SentientGuardian - Emotional Wellness & SOS",
+  "description": "An AI-powered emotional wellness tracker that analyzes your feelings and automatically alerts family members if you are in a crisis or danger situation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
