@@ -6,7 +6,7 @@ import { AnalysisResult, SafetyLevel, UserProfile } from "../types";
 // If you deploy the backend to Render, put the URL here.
 // Example: const API_URL = "https://sentient-backend.onrender.com/analyze";
 // =========================================================
-const API_URL = "http://localhost:5000/analyze"; 
+const API_URL = "https://safety-txzq.onrender.com"; 
 
 // Local fallback regex (kept for offline redundancy)
 const localAnalyze = (text: string): AnalysisResult => {
