@@ -3,11 +3,11 @@
 //  2nd
 
 
-const express = require('express');
-const nodemailer = require('nodemailer');
-const cors = require('cors');
-const bodyParser = require('body-parser');
-const os = require('os');
+import express from 'express'
+import nodemailer from 'nodemailer'
+import cors from 'cors'
+import  bodyParser from 'body-parser'
+import os from 'os'
 
 const app = express();
 // Render assigns a port automatically via process.env.PORT
